@@ -1,0 +1,124 @@
+2020-08-26 12:30:51.119007: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library cublas64_100.dll
+2020-08-26 12:30:51.931394: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library cudnn64_7.dll
+2020-08-26 12:30:53.029188: W tensorflow/stream_executor/cuda/redzone_allocator.cc:312] Internal: Invoking ptxas not supported on Windows
+Relying on driver to perform ptx compilation. This message will be only logged once.
+2020-08-26 12:30:53.402268: step 0, loss = 4.68 (303.4 examples/sec; 0.422 sec/batch)
+2020-08-26 12:30:53.598744: step 10, loss = 4.65 (6514.8 examples/sec; 0.020 sec/batch)
+2020-08-26 12:30:53.718425: step 20, loss = 4.47 (10695.1 examples/sec; 0.012 sec/batch)
+2020-08-26 12:30:53.839101: step 30, loss = 4.46 (10606.8 examples/sec; 0.012 sec/batch)
+2020-08-26 12:30:53.954795: step 40, loss = 4.40 (11063.7 examples/sec; 0.012 sec/batch)
+2020-08-26 12:30:54.073476: step 50, loss = 4.37 (10785.2 examples/sec; 0.012 sec/batch)
+2020-08-26 12:30:54.188167: step 60, loss = 4.55 (11160.4 examples/sec; 0.011 sec/batch)
+2020-08-26 12:30:54.318820: step 70, loss = 4.23 (9797.0 examples/sec; 0.013 sec/batch)
+2020-08-26 12:30:54.440492: step 80, loss = 4.20 (10520.1 examples/sec; 0.012 sec/batch)
+2020-08-26 12:30:54.560173: step 90, loss = 4.11 (10695.1 examples/sec; 0.012 sec/batch)
+INFO:tensorflow:global_step/sec: 70.3138
+I0826 12:30:54.823467  8488 basic_session_run_hooks.py:692] global_step/sec: 70.3138
+2020-08-26 12:30:54.827457: step 100, loss = 4.05 (4788.9 examples/sec; 0.027 sec/batch)
+2020-08-26 12:30:54.947137: step 110, loss = 3.88 (10695.1 examples/sec; 0.012 sec/batch)
+2020-08-26 12:30:55.151590: step 120, loss = 4.09 (6260.6 examples/sec; 0.020 sec/batch)
+2020-08-26 12:30:55.277256: step 130, loss = 4.04 (10185.7 examples/sec; 0.013 sec/batch)
+2020-08-26 12:30:55.396937: step 140, loss = 3.98 (10695.2 examples/sec; 0.012 sec/batch)
+2020-08-26 12:30:55.515616: step 150, loss = 4.04 (10785.3 examples/sec; 0.012 sec/batch)
+2020-08-26 12:30:55.635296: step 160, loss = 4.26 (10695.2 examples/sec; 0.012 sec/batch)
+2020-08-26 12:30:55.763957: step 170, loss = 4.06 (9948.7 examples/sec; 0.013 sec/batch)
+2020-08-26 12:30:55.884630: step 180, loss = 3.86 (10607.2 examples/sec; 0.012 sec/batch)
+2020-08-26 12:30:56.008299: step 190, loss = 3.98 (10350.2 examples/sec; 0.012 sec/batch)
+INFO:tensorflow:global_step/sec: 69.15
+I0826 12:30:56.269599  8488 basic_session_run_hooks.py:692] global_step/sec: 69.15
+2020-08-26 12:30:56.273589: step 200, loss = 3.77 (4824.9 examples/sec; 0.027 sec/batch)
+2020-08-26 12:30:56.392272: step 210, loss = 3.77 (10785.0 examples/sec; 0.012 sec/batch)
+2020-08-26 12:30:56.510955: step 220, loss = 3.77 (10785.0 examples/sec; 0.012 sec/batch)
+2020-08-26 12:30:56.630635: step 230, loss = 3.80 (10695.2 examples/sec; 0.012 sec/batch)
+2020-08-26 12:30:56.758294: step 240, loss = 3.89 (10026.7 examples/sec; 0.013 sec/batch)
+2020-08-26 12:30:56.884955: step 250, loss = 3.63 (10105.7 examples/sec; 0.013 sec/batch)
+2020-08-26 12:30:57.008623: step 260, loss = 3.74 (10350.3 examples/sec; 0.012 sec/batch)
+2020-08-26 12:30:57.132293: step 270, loss = 3.66 (10350.1 examples/sec; 0.012 sec/batch)
+2020-08-26 12:30:57.255964: step 280, loss = 3.42 (10350.1 examples/sec; 0.012 sec/batch)
+2020-08-26 12:30:57.379631: step 290, loss = 3.60 (10350.4 examples/sec; 0.012 sec/batch)
+INFO:tensorflow:global_step/sec: 73.2414
+I0826 12:30:57.634948  8488 basic_session_run_hooks.py:692] global_step/sec: 73.2414
+2020-08-26 12:30:57.638938: step 300, loss = 3.57 (4936.2 examples/sec; 0.026 sec/batch)
+2020-08-26 12:30:57.763605: step 310, loss = 3.81 (10267.3 examples/sec; 0.012 sec/batch)
+2020-08-26 12:30:57.881290: step 320, loss = 3.57 (10876.5 examples/sec; 0.012 sec/batch)
+2020-08-26 12:30:58.001967: step 330, loss = 3.44 (10606.8 examples/sec; 0.012 sec/batch)
+2020-08-26 12:30:58.124639: step 340, loss = 3.49 (10434.4 examples/sec; 0.012 sec/batch)
+2020-08-26 12:30:58.251303: step 350, loss = 3.57 (10105.4 examples/sec; 0.013 sec/batch)
+2020-08-26 12:30:58.370980: step 360, loss = 3.44 (10695.5 examples/sec; 0.012 sec/batch)
+2020-08-26 12:30:58.491657: step 370, loss = 3.39 (10606.8 examples/sec; 0.012 sec/batch)
+2020-08-26 12:30:58.614329: step 380, loss = 3.72 (10434.3 examples/sec; 0.012 sec/batch)
+2020-08-26 12:30:58.739993: step 390, loss = 3.46 (10185.9 examples/sec; 0.013 sec/batch)
+INFO:tensorflow:global_step/sec: 73.4559
+I0826 12:30:58.996308  8488 basic_session_run_hooks.py:692] global_step/sec: 73.4559
+2020-08-26 12:30:59.000297: step 400, loss = 3.34 (4917.3 examples/sec; 0.026 sec/batch)
+2020-08-26 12:30:59.118980: step 410, loss = 3.26 (10785.1 examples/sec; 0.012 sec/batch)
+2020-08-26 12:30:59.243651: step 420, loss = 3.14 (10267.0 examples/sec; 0.012 sec/batch)
+2020-08-26 12:30:59.367316: step 430, loss = 3.38 (10350.6 examples/sec; 0.012 sec/batch)
+2020-08-26 12:30:59.487993: step 440, loss = 3.24 (10606.8 examples/sec; 0.012 sec/batch)
+2020-08-26 12:30:59.606677: step 450, loss = 3.20 (10785.0 examples/sec; 0.012 sec/batch)
+2020-08-26 12:30:59.752286: step 460, loss = 3.14 (8790.7 examples/sec; 0.015 sec/batch)
+2020-08-26 12:30:59.873960: step 470, loss = 3.12 (10519.9 examples/sec; 0.012 sec/batch)
+2020-08-26 12:31:00.014585: step 480, loss = 3.13 (9102.2 examples/sec; 0.014 sec/batch)
+2020-08-26 12:31:00.138253: step 490, loss = 3.21 (10350.3 examples/sec; 0.012 sec/batch)
+INFO:tensorflow:global_step/sec: 71.4155
+I0826 12:31:00.396565  8488 basic_session_run_hooks.py:692] global_step/sec: 71.4155
+2020-08-26 12:31:00.400552: step 500, loss = 3.22 (4879.9 examples/sec; 0.026 sec/batch)
+2020-08-26 12:31:00.525219: step 510, loss = 3.39 (10267.4 examples/sec; 0.012 sec/batch)
+2020-08-26 12:31:00.651880: step 520, loss = 3.04 (10105.6 examples/sec; 0.013 sec/batch)
+2020-08-26 12:31:00.775550: step 530, loss = 3.31 (10350.2 examples/sec; 0.012 sec/batch)
+2020-08-26 12:31:00.893235: step 540, loss = 3.06 (10876.5 examples/sec; 0.012 sec/batch)
+2020-08-26 12:31:01.015910: step 550, loss = 2.90 (10434.1 examples/sec; 0.012 sec/batch)
+2020-08-26 12:31:01.139577: step 560, loss = 3.18 (10350.4 examples/sec; 0.012 sec/batch)
+2020-08-26 12:31:01.264242: step 570, loss = 3.21 (10350.0 examples/sec; 0.012 sec/batch)
+2020-08-26 12:31:01.385918: step 580, loss = 3.11 (10434.6 examples/sec; 0.012 sec/batch)
+2020-08-26 12:31:01.505597: step 590, loss = 3.00 (10695.2 examples/sec; 0.012 sec/batch)
+INFO:tensorflow:global_step/sec: 73.7804
+I0826 12:31:01.751938  8488 basic_session_run_hooks.py:692] global_step/sec: 73.7804
+2020-08-26 12:31:01.755927: step 600, loss = 3.15 (5113.3 examples/sec; 0.025 sec/batch)
+2020-08-26 12:31:01.878600: step 610, loss = 3.07 (10434.2 examples/sec; 0.012 sec/batch)
+2020-08-26 12:31:02.002268: step 620, loss = 2.86 (10350.3 examples/sec; 0.012 sec/batch)
+2020-08-26 12:31:02.117960: step 630, loss = 2.99 (11063.9 examples/sec; 0.012 sec/batch)
+2020-08-26 12:31:02.241630: step 640, loss = 2.86 (10350.2 examples/sec; 0.012 sec/batch)
+2020-08-26 12:31:02.361310: step 650, loss = 2.73 (10695.2 examples/sec; 0.012 sec/batch)
+2020-08-26 12:31:02.483982: step 660, loss = 3.07 (10434.4 examples/sec; 0.012 sec/batch)
+2020-08-26 12:31:02.605656: step 670, loss = 2.99 (10519.9 examples/sec; 0.012 sec/batch)
+2020-08-26 12:31:02.727331: step 680, loss = 2.88 (10519.8 examples/sec; 0.012 sec/batch)
+2020-08-26 12:31:02.852993: step 690, loss = 2.97 (10186.1 examples/sec; 0.013 sec/batch)
+INFO:tensorflow:global_step/sec: 73.9981
+I0826 12:31:03.103323  8488 basic_session_run_hooks.py:692] global_step/sec: 73.9981
+2020-08-26 12:31:03.106317: step 700, loss = 3.02 (5052.8 examples/sec; 0.025 sec/batch)
+2020-08-26 12:31:03.227992: step 710, loss = 2.81 (10519.8 examples/sec; 0.012 sec/batch)
+2020-08-26 12:31:03.349667: step 720, loss = 2.77 (10519.8 examples/sec; 0.012 sec/batch)
+2020-08-26 12:31:03.468352: step 730, loss = 2.82 (10784.9 examples/sec; 0.012 sec/batch)
+2020-08-26 12:31:03.588028: step 740, loss = 2.84 (10695.6 examples/sec; 0.012 sec/batch)
+2020-08-26 12:31:03.704717: step 750, loss = 2.74 (10969.4 examples/sec; 0.012 sec/batch)
+2020-08-26 12:31:03.831384: step 760, loss = 2.89 (10105.3 examples/sec; 0.013 sec/batch)
+2020-08-26 12:31:03.948070: step 770, loss = 2.75 (10969.6 examples/sec; 0.012 sec/batch)
+2020-08-26 12:31:04.065751: step 780, loss = 2.74 (10876.8 examples/sec; 0.012 sec/batch)
+2020-08-26 12:31:04.184432: step 790, loss = 2.85 (10785.2 examples/sec; 0.012 sec/batch)
+INFO:tensorflow:global_step/sec: 74.7149
+I0826 12:31:04.441744  8488 basic_session_run_hooks.py:692] global_step/sec: 74.7149
+2020-08-26 12:31:04.445734: step 800, loss = 2.92 (4898.6 examples/sec; 0.026 sec/batch)
+2020-08-26 12:31:04.570401: step 810, loss = 2.75 (10267.4 examples/sec; 0.012 sec/batch)
+2020-08-26 12:31:04.687091: step 820, loss = 2.65 (10969.2 examples/sec; 0.012 sec/batch)
+2020-08-26 12:31:04.810758: step 830, loss = 2.82 (10350.4 examples/sec; 0.012 sec/batch)
+2020-08-26 12:31:04.945398: step 840, loss = 2.57 (9506.9 examples/sec; 0.013 sec/batch)
+2020-08-26 12:31:05.068070: step 850, loss = 3.00 (10434.3 examples/sec; 0.012 sec/batch)
+2020-08-26 12:31:05.180771: step 860, loss = 2.51 (11357.5 examples/sec; 0.011 sec/batch)
+2020-08-26 12:31:05.305434: step 870, loss = 2.62 (10267.6 examples/sec; 0.012 sec/batch)
+2020-08-26 12:31:05.424117: step 880, loss = 2.75 (10785.1 examples/sec; 0.012 sec/batch)
+2020-08-26 12:31:05.543797: step 890, loss = 2.55 (10695.2 examples/sec; 0.012 sec/batch)
+INFO:tensorflow:global_step/sec: 73.889
+I0826 12:31:05.795125  8488 basic_session_run_hooks.py:692] global_step/sec: 73.889
+2020-08-26 12:31:05.799115: step 900, loss = 2.50 (5013.4 examples/sec; 0.026 sec/batch)
+2020-08-26 12:31:05.918795: step 910, loss = 2.51 (10695.1 examples/sec; 0.012 sec/batch)
+2020-08-26 12:31:06.038474: step 920, loss = 2.66 (10695.3 examples/sec; 0.012 sec/batch)
+2020-08-26 12:31:06.156159: step 930, loss = 2.48 (10876.5 examples/sec; 0.012 sec/batch)
+2020-08-26 12:31:06.282821: step 940, loss = 2.62 (10105.7 examples/sec; 0.013 sec/batch)
+2020-08-26 12:31:06.399511: step 950, loss = 2.36 (10969.2 examples/sec; 0.012 sec/batch)
+2020-08-26 12:31:06.520187: step 960, loss = 2.42 (10606.9 examples/sec; 0.012 sec/batch)
+2020-08-26 12:31:06.642859: step 970, loss = 2.26 (10434.3 examples/sec; 0.012 sec/batch)
+2020-08-26 12:31:06.770517: step 980, loss = 2.69 (10026.7 examples/sec; 0.013 sec/batch)
+2020-08-26 12:31:06.892191: step 990, loss = 2.60 (10519.9 examples/sec; 0.012 sec/batch)
+INFO:tensorflow:Saving checkpoints for 1000 into /tmp/cifar10_train\model.ckpt.
+I0826 12:31:07.000900  8488 basic_session_run_hooks.py:606] Saving checkpoints for 1000 into /tmp/cifar10_train\model.ckpt.
